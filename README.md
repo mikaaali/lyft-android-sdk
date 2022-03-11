@@ -8,7 +8,7 @@
 - **Fix**: 
   - Updated Gradle version from `4.10.1` to `5.4.1`, and Android Gradle Plugin from `3.3.2` to `3.5.4`
   - Updated AndroidTargetSDK from `23` to `30`
-  - Added a <queries> element in the Android manifest
+  - Added a `<queries>` element in the Android manifest
 
 - **Before Fix Sample Video:** 
 
